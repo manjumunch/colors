@@ -12,7 +12,7 @@
     </script>
 </head>
 <body>
-    <h1>Color Changer</h1>
+    <h1>Color Clicker</h1>
     <ul>
         <li><a href="javascript:void(0);" onclick="changeColor('red');">Red</a></li>
         <li><a href="javascript:void(0);" onclick="changeColor('blue');">Blue</a></li>
