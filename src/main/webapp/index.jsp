@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Color Changer</title>
+    <title>Color clicker</title>
     <script>
         function changeColor(color) {
             document.body.style.backgroundColor = color;
