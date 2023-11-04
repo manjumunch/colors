@@ -23,7 +23,7 @@
         <li><a href="javascript:void(0);" onclick="changeColor('pink');">Pink</a></li>
         <li><a href="javascript:void(0);" onclick="changeColor('brown');">Brown</a></li>
         <li><a href="javascript:void(0);" onclick="changeColor('gray');">Gray</a></li>
-        <li><a href="javascript:void(0);" onclick="changeColor('black');">Black</a></li>
+        <li><a href="javascript:void(0);" onclick="changeColor('aqua');">aqua</a></li>
     </ul>
 </body>
 </html>
